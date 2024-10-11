@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateSwitchAppLauncher_WindowsFormsApp", "DateSwitchAppLauncher_WindowsFormsApp\DateSwitchAppLauncher_WindowsFormsApp.csproj", "{2F14D435-4694-470E-BEB6-3F315FE0D643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F14D435-4694-470E-BEB6-3F315FE0D643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F14D435-4694-470E-BEB6-3F315FE0D643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F14D435-4694-470E-BEB6-3F315FE0D643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F14D435-4694-470E-BEB6-3F315FE0D643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D691369-1298-465F-A007-24A3F57E94FD}
+	EndGlobalSection
+EndGlobal
